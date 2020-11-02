@@ -8,7 +8,7 @@
 ### El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas condiciones en las que se tomó y no afectará el caudal ecológico del río, tampoco el consumo de agua potable de la Región Metropolitana ni el de los agricultores.
 
 
-Razones por las que alto maipo es beneficioso:
+### Razones por las que alto maipo es beneficioso:
 > Energía Renovable
 > Ubicación estratégica
 > Aporte energético
