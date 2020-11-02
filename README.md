@@ -14,7 +14,7 @@ El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas co
 * Energía Renovable
   * Alto Maipo es un proyecto hidroeléctrico de pasada, desvía parte del cauce del río y luego lo devuelve al afluente natural sin ningún tipo de proceso o intervención química. Esto permite generar energía eléctrica limpia y renovable, sin necesidad de almacenar o alterar los recursos hídricos.
 * Ubicación estratégica
-  * Ubicado a 50 kms de Santiago y cerca de los centros de distribución eléctrica, el proyecto sólo requiere 17 kms de líneas de transmisión nuevas. Su proximidad a la capital la hace menos vulnerable en caso de un blackout o “apagón” generalizado, ya que las centrales hidroeléctricas son las primeras en reponer la inyección de energía al sistema
+  * Ubicado a 50 kms de Santiago y cerca de los centros de distribución eléctrica, el proyecto sólo requiere 17 kms de líneas de transmisión nuevas. Su proximidad a la capital la hace menos vulnerable en caso de un blackout o “apagón” generalizado, ya que las centrales hidroeléctricas son las primeras en reponer la inyección de energía al sistema.
 * Aporte energético
   * Sus dos centrales de pasada, Alfalfal II y Las Lajas, tendrán una potencia instalada de hasta 531 MW, constituyendo un potencial aporte a un millón de hogares a través del Sistema Eléctrico Nacional (SEN).
 
