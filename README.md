@@ -41,6 +41,9 @@ La poca participación de las comunidades en la toma de decisiones que afecta el
 ##### [Coordinadora por la Defensa del Agua y la Vida](https://www.derechoalagua.cl/etiqueta/alto-maipo/)
 ##### [Energía 2050](https://energia.gob.cl/sites/default/files/energia_2050_-_politica_energetica_de_chile.pdf)
 ##### [Conoce Alto Maipo](https://conocealtomaipo.cl/)
+##### [Siete conflictos socioambientales que tensionan la "agenda verde" del gobierno en el año de la COP25](https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/)
 ##### []()
 ##### []()
-
+##### []()
+##### []()
+##### []()
