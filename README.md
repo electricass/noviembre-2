@@ -30,7 +30,7 @@ El PHAM pretende captar los principales afluentes que alimentan el Río Maipo pa
 
 Este túnel, solo estucado en algunas partes y no impermeabilizado, *llevará aproximadamente 3 millones de metros cúbicos de agua,* equivalentes a 2 estadios nacionales llenos de líquido. Es decir, es un embalse entubado.
 
-## Probema social y político
+## [Probema social y político](https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/)
 El director de GreenPeace, Matías Asun opina que la manera en la que Chile comprende al medioambiente es un factor que ha llevado a los daños al ecosistema.
 > "El país tiene una visión limitada del medioambiente, el que **es percibido únicamente como un recurso para extraer y generar riqueza**. Así, permite que se produzcan no sólo **daños irreparables** para los ecosistemas, sino también, pone en asimetría de poder a las empresas contra las comunidades. La normativa es muy permisiva y la fiscalización del cumplimiento de las acciones de mitigaciones a las que se comprometen las empresas es casi nula"
 
