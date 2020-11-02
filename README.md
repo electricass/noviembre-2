@@ -9,9 +9,9 @@
 
 
 Razones por las que alto maipo es beneficioso:
->Energía Renovable
->Ubicación estratégica
->Aporte energético
+> Energía Renovable
+> Ubicación estratégica
+> Aporte energético
 
 ## Puntos en contra del proyecto Alto Maipo
 ### [La Coordinadora No Alto Maipo](https://www.facebook.com/NoAlProyectoAltoMaipo) asegura que el proyecto hidroeléctrico de AES Gener *desertificará el Cajón del Maipo*, pondrá en *peligro el abastecimiento de agua potable y de riego para Santiago* y *contaminará con arsénico* entre otros metales pesados, tierra, agua y aire de la Región Metropolitana.
