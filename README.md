@@ -4,4 +4,4 @@
 
 ### Primera clase trabajo examen **Infografía Digital**
 
-### "sparkles"
+### *metal*
