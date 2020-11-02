@@ -10,12 +10,10 @@ Contará con dos centrales de generación dispuestas en serie (Alfalfal II y Las
 El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas condiciones en las que se tomó y no afectará el caudal ecológico del río, tampoco el consumo de agua potable de la Región Metropolitana ni el de los agricultores.
 
 
-### Razones por las que alto maipo es beneficioso:
-Energía Renovable
-
-Ubicación estratégica
-
-Aporte energético
+### Razones por las que Alto Maipo es beneficioso:
+* Energía Renovable
+* Ubicación estratégica
+* Aporte energético
 
 ## Puntos en contra del proyecto Alto Maipo
 ### [La Coordinadora No Alto Maipo](https://www.facebook.com/NoAlProyectoAltoMaipo) asegura que el proyecto hidroeléctrico de AES Gener *desertificará el Cajón del Maipo*, pondrá en *peligro el abastecimiento de agua potable y de riego para Santiago* y *contaminará con arsénico* entre otros metales pesados, tierra, agua y aire de la Región Metropolitana.
