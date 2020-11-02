@@ -4,7 +4,9 @@
 ![Construcción Proyeccto Alto Maipo](https://3powershala.com/wp-content/uploads/2016/11/Alto-Maipo-1-770x513.jpg)
 ### [Conoce Alto Maipo se define como:](conocealtomaipo.cl)
 > "... un proyecto hidroeléctrico de pasada que aprovechará la altura de la geografía de los ríos del Valle del Maipo para producir energía eléctrica."
+
 Contará con dos centrales de generación dispuestas en serie (Alfalfal II y Las Lajas) por las que pasará, a través de túneles y a gran presión, agua proveniente de los ríos Yeso, Colorado y esteros afluentes al río Volcán, generando en conjunto hasta 531 MW de potencia.
+
 El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas condiciones en las que se tomó y no afectará el caudal ecológico del río, tampoco el consumo de agua potable de la Región Metropolitana ni el de los agricultores.
 
 
