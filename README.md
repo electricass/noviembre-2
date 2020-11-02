@@ -1,6 +1,6 @@
 # Marco teórico “Política energética de Chile", el caso de la hidroeléctrica Alto Maipo
 ## ¿Qué es el proyecto Alto Maipo?
-![Mapa Proyeccto Alto Maipo](https://i.pinimg.com/564x/eb/95/e7/eb95e7b9fcf3cd14e10e8fab1eb0d879.jpg)
+![Mapa Proyeccto Alto Maipo](https://i.pinimg.com/564x/eb/95/e7/eb95e7b9fcf3cd14e10e8fab1eb0d879.jpg) ![Construcción proyecto Alto Maipo](https://www.latercera.com/resizer/D4VqmWf0QUezGBMFKkTrh5fcGio=/375x250/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/BHPTEC777FB7XGMLJNZYMUTQ5U.jpg)
 
 [Conoce Alto Maipo se define como:](conocealtomaipo.cl)
 > "Alto Maipo es un proyecto hidroeléctrico de pasada que aprovechará la altura de la geografía de los ríos del Valle del Maipo para producir energía eléctrica."
