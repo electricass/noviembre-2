@@ -1,5 +1,5 @@
 # Marco teórico “Política energética de Chile", el caso de la hidroeléctrica Alto Maipo
- ![Mapa Proyeccto Alto Maipo](https://www.pinterest.cl/80d95098-88c5-450b-b455-3bb6e7acb199)
+ ![Mapa Proyeccto Alto Maipo](https://i.pinimg.com/564x/eb/95/e7/eb95e7b9fcf3cd14e10e8fab1eb0d879.jpg)
 ### "Alto Maipo es un proyecto hidroeléctrico de pasada que aprovechará la altura de la geografía de los ríos del Valle del Maipo para producir energía eléctrica." [según la empresa a cargo de Alto Maipo](conocealtomaipo.cl)
 
 ### [La Coordinadora No Alto Maipo](https://www.facebook.com/NoAlProyectoAltoMaipo) asegura que el proyecto hidroeléctrico de AES Gener *desertificará el Cajón del Maipo*, pondrá en *peligro el abastecimiento de agua potable y de riego para Santiago* y *contaminará con arsénico* entre otros metales pesados, tierra, agua y aire de la Región Metropolitana.
