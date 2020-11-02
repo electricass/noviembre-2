@@ -4,7 +4,9 @@
 
 [Conoce Alto Maipo se define como:](conocealtomaipo.cl)
 > "Alto Maipo es un proyecto hidroeléctrico de pasada que aprovechará la altura de la geografía de los ríos del Valle del Maipo para producir energía eléctrica."
-### Contará con dos centrales de generación dispuestas en serie (Alfalfal II y Las Lajas) por las que pasará, a través de túneles y a gran presión, agua proveniente de los ríos Yeso, Colorado y esteros afluentes al río Volcán, generando en conjunto hasta 531 MW de potencia
+### Contará con dos centrales de generación dispuestas en serie (Alfalfal II y Las Lajas) por las que pasará, a través de túneles y a gran presión, agua proveniente de los ríos Yeso, Colorado y esteros afluentes al río Volcán, generando en conjunto hasta 531 MW de potencia.
+### El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas condiciones en las que se tomó y no afectará el caudal ecológico del río, tampoco el consumo de agua potable de la Región Metropolitana ni el de los agricultores.
+
 ### [La Coordinadora No Alto Maipo](https://www.facebook.com/NoAlProyectoAltoMaipo) asegura que el proyecto hidroeléctrico de AES Gener *desertificará el Cajón del Maipo*, pondrá en *peligro el abastecimiento de agua potable y de riego para Santiago* y *contaminará con arsénico* entre otros metales pesados, tierra, agua y aire de la Región Metropolitana.
 
 
