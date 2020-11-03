@@ -42,8 +42,8 @@ La poca participación de las comunidades en la toma de decisiones que afectan e
 * [Energía 2050](https://energia.gob.cl/sites/default/files/energia_2050_-_politica_energetica_de_chile.pdf)
 * [Conoce Alto Maipo](https://conocealtomaipo.cl/)
 * [Siete conflictos socioambientales que tensionan la "agenda verde" del gobierno en el año de la COP25](https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/)
-* []()
-* []()
+* [Irregularidades el el Proyecto Alto Maipo](https://surfbeatsradio.com/ahora-en-historica-jornada-causa-por-irregularidades-de-proyecto-alto-maipo-arriba-a-tribunal-ambiental-de-santiago/)
+* [Chile: los peligros del proyecto Alto Maipo. Por Francisco Marín.](http://www.sicnoticias.cl/?p=979)
 * []()
 * []()
 
