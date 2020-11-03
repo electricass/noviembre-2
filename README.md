@@ -37,13 +37,13 @@ El director de GreenPeace, Matías Asun opina que la manera en la que nuestra pe
 La poca participación de las comunidades en la toma de decisiones que afectan el espacio en el que viven resulta preocupante. Flavia Liberona, directora de la Fundación Terram, asegura que el problema radica en la institucionalidad. Explica que **menos del 10% de los proyectos de inversión se evalúan en base a un Estudio de Impacto Ambiental (EIA)**, que son los que aceptan la participación de las comunidades en su evaluación. El resto, solo se analiza a partir de una Declaración de Impacto Ambiental (DIA), informe simple y en el que **las comunidades no participan a menos que sea solicitado**.
 > "El Sistema de Evaluación de Impacto Ambiental (SEIA), -que analiza y entrega la autorización para levantar las iniciativas de inversión-  está hecho para aprobar los proyectos y **limita la participación ciudadana**. La mayoría de los conflictos que conocemos son por los reclamos de las comunidades frente a los proyectos que presentaron un Estudio de Impacto Ambiental (EIA), por lo que son una mínima parte de los potenciales conflictos que pueden existir en el país. Además, **las comunidades no cuentan con apoyo técnico ni jurídico que les permita entender la magnitud del impacto que tal o cual proyecto tendrá en sus territorios y en sus vidas**"
 
-##### :sparkles: Links referencia :sparkles:
-##### [Coordinadora por la Defensa del Agua y la Vida](https://www.derechoalagua.cl/etiqueta/alto-maipo/)
-##### [Energía 2050](https://energia.gob.cl/sites/default/files/energia_2050_-_politica_energetica_de_chile.pdf)
-##### [Conoce Alto Maipo](https://conocealtomaipo.cl/)
-##### [Siete conflictos socioambientales que tensionan la "agenda verde" del gobierno en el año de la COP25](https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/)
-##### []()
-##### []()
-##### []()
-##### []()
-##### []()
+##### :clipboard: Links referencia :clipboard:
+##### * [Coordinadora por la Defensa del Agua y la Vida](https://www.derechoalagua.cl/etiqueta/alto-maipo/)
+##### * [Energía 2050](https://energia.gob.cl/sites/default/files/energia_2050_-_politica_energetica_de_chile.pdf)
+##### * [Conoce Alto Maipo](https://conocealtomaipo.cl/)
+##### * [Siete conflictos socioambientales que tensionan la "agenda verde" del gobierno en el año de la COP25](https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/)
+##### * []()
+##### * []()
+##### * []()
+##### * []()
+##### * []()
