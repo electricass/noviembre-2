@@ -40,6 +40,7 @@ La poca participación de las comunidades en la toma de decisiones que afectan e
 
 ##### Orden información
 * Qué es y en qué consiste el proyecto Alto Maipo
+* Cuencas (Mapa)
 * Contexto: Info e historia Río Maipo
 * Beneficios
 * Info en contra:
